@@ -8,8 +8,8 @@ Application in witch user by typing in a ip address can see a location of a comp
 https://konadik.github.io/IP-Address-Tracker/
 
 ### Build with
--React
--Tailwind CSS
--leaflet JS
+ - React
+ - Tailwind CSS
+ - leaflet JS
 
 
